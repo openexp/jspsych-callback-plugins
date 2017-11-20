@@ -1,0 +1,5 @@
+# jspsych-callback-plugins
+Custom jspsych plugins with a callback at `on_start`
+
+This repo is a collection of custom plugins for jsPsych that allows for a
+callback at the beginning of each trial.

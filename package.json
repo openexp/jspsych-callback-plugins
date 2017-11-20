@@ -1,0 +1,17 @@
+{
+  "name": "jspsych-callback-plugins",
+  "version": "0.0.1",
+  "description": "Custom plugins with on_start callback for jspsych",
+  "main": "index.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teonbrooks/jspsych-callback-plugins.git"
+  },
+  "author": "Teon L Brooks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teonbrooks/jspsych-callback-plugins/issues"
+  },
+  "homepage": "https://github.com/teonbrooks/jspsych-callback-plugins#readme"
+}
